@@ -17,7 +17,7 @@ module.exports = function buildList() {
       "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
     keywords: ["sushiswap", "default"],
     tokens: [
-     u2u_nebulas
+     ...u2u_nebulas
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
