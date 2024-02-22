@@ -4,3 +4,6 @@ build/
 generated/
 
 volumes.xlsx
+DS_Store
+.DS_Store
+.turbo
