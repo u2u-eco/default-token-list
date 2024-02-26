@@ -64,12 +64,20 @@
       "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/2484/xrp.png"
     },
     {
-      "name": "SushiToken on xDai",
+      "name": "SushiToken on U2U",
       "address": "0xd0c8ec558e16361064f3d1240d0e5472943ea340",
       "symbol": "SUSHI",
       "decimals": 18,
       "chainId": 2484,
       "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/2484/sushi.png"
+    },
+    {
+      "name": "U2W",
+      "address": "0x006db638881cff205e60ee174d2def83f1835628",
+      "symbol": "U2W",
+      "decimals": 18,
+      "chainId": 2484,
+      "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/2484/u2w.png"
     }
   ]
   
