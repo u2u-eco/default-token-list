@@ -5,7 +5,7 @@
       "symbol": "WETH",
       "decimals": 18,
       "chainId": 2484,
-      "logoURI": ""
+      "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/native-currency/u2u.png"
     },
     {
       "name": "USDC Token on U2U",
@@ -13,7 +13,7 @@
       "symbol": "USDC",
       "decimals": 18,
       "chainId": 2484,
-      "logoURI": ""
+      "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/2484/usdc.png"
     },
     {
       "name": "BTC Token on U2U",
@@ -21,7 +21,7 @@
       "symbol": "BTC",
       "decimals": 18,
       "chainId": 2484,
-      "logoURI": ""
+      "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/2484/btc.png"
     },
     {
       "name": "ETH Token on U2U",
@@ -29,7 +29,7 @@
       "symbol": "ETH",
       "decimals": 18,
       "chainId": 2484,
-      "logoURI": ""
+      "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/2484/eth.png"
     },
     {
       "name": "DAI Token on U2U",
@@ -37,7 +37,7 @@
       "symbol": "DAI",
       "decimals": 18,
       "chainId": 2484,
-      "logoURI": ""
+      "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/2484/dai.png"
     },
     {
       "name": "USDT Token on U2U",
@@ -45,7 +45,7 @@
       "symbol": "USDT",
       "decimals": 18,
       "chainId": 2484,
-      "logoURI": ""
+      "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/2484/usdt.png"
     },
     {
       "name": "BUSD Token on U2U",
@@ -53,7 +53,7 @@
       "symbol": "BUSD",
       "decimals": 18,
       "chainId": 2484,
-      "logoURI": ""
+      "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/2484/busd.png"
     },
     {
       "name": "XRP Token on U2U",
@@ -61,7 +61,7 @@
       "symbol": "XRP",
       "decimals": 18,
       "chainId": 2484,
-      "logoURI": ""
+      "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/2484/xrp.png"
     },
     {
       "name": "SushiToken on xDai",
@@ -69,7 +69,7 @@
       "symbol": "SUSHI",
       "decimals": 18,
       "chainId": 2484,
-      "logoURI": ""
+      "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/2484/sushi.png"
     }
   ]
   
