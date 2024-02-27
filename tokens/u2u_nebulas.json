@@ -33,7 +33,7 @@
     },
     {
       "name": "DAI Token on U2U",
-      "address": "0x49bdaa25b9e5198008960c02e96fdc9a4411e8a7",
+      "address": "0x73fe4db0779022ff9c0b32ef2644272b32bef5b7",
       "symbol": "DAI",
       "decimals": 18,
       "chainId": 2484,
