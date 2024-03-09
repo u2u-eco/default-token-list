@@ -1,83 +1,90 @@
 [
-    {
-      "name": "Wrapped U2U",
-      "address": "0xae3cdf25fd5c3443dea93cc7af3226395b48c53a",
-      "symbol": "WETH",
-      "decimals": 18,
-      "chainId": 2484,
-      "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/native-currency/u2u.png"
-    },
-    {
-      "name": "USDC Token on U2U",
-      "address": "0x9a0359e8432c856e1eefc6f2e242b5dfed41b3ec",
-      "symbol": "USDC",
-      "decimals": 18,
-      "chainId": 2484,
-      "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/2484/usdc.png"
-    },
-    {
-      "name": "BTC Token on U2U",
-      "address": "0x5289638b40725fb3c33f801d1a339878674ff555",
-      "symbol": "BTC",
-      "decimals": 18,
-      "chainId": 2484,
-      "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/2484/btc.png"
-    },
-    {
-      "name": "ETH Token on U2U",
-      "address": "0x4a656f094b3140f067196c8986d22619d37df58d",
-      "symbol": "ETH",
-      "decimals": 18,
-      "chainId": 2484,
-      "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/2484/eth.png"
-    },
-    {
-      "name": "DAI Token on U2U",
-      "address": "0x73fe4db0779022ff9c0b32ef2644272b32bef5b7",
-      "symbol": "DAI",
-      "decimals": 18,
-      "chainId": 2484,
-      "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/2484/dai.png"
-    },
-    {
-      "name": "USDT Token on U2U",
-      "address": "0xf13d179f157a6202cede6a78a197eacee656440a",
-      "symbol": "USDT",
-      "decimals": 18,
-      "chainId": 2484,
-      "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/2484/usdt.png"
-    },
-    {
-      "name": "BUSD Token on U2U",
-      "address": "0xc845fc63a5a69637ebe0d960fbfa33671a1e21e0",
-      "symbol": "BUSD",
-      "decimals": 18,
-      "chainId": 2484,
-      "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/2484/busd.png"
-    },
-    {
-      "name": "XRP Token on U2U",
-      "address": "0xfd38a31834ccb29fa16c98b6c7a22283c3ceaba0",
-      "symbol": "XRP",
-      "decimals": 18,
-      "chainId": 2484,
-      "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/2484/xrp.png"
-    },
-    {
-      "name": "SushiToken on U2U",
-      "address": "0xd0c8ec558e16361064f3d1240d0e5472943ea340",
-      "symbol": "SUSHI",
-      "decimals": 18,
-      "chainId": 2484,
-      "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/2484/sushi.png"
-    },
-    {
-      "name": "U2W",
-      "address": "0x006db638881cff205e60ee174d2def83f1835628",
-      "symbol": "U2W",
-      "decimals": 18,
-      "chainId": 2484,
-      "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/2484/u2w.png"
-    }
-  ]
-  
+  {
+    "name": "BTC Token on U2U",
+    "address": "0x5289638b40725fb3c33f801d1a339878674ff555",
+    "symbol": "BTC",
+    "decimals": 18,
+    "chainId": 2484,
+    "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/2484/btc.png"
+  },
+  {
+    "name": "BUSD Token on U2U",
+    "address": "0xc845fc63a5a69637ebe0d960fbfa33671a1e21e0",
+    "symbol": "BUSD",
+    "decimals": 18,
+    "chainId": 2484,
+    "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/2484/busd.png"
+  },
+  {
+    "name": "DAI Token on U2U",
+    "address": "0x73fe4db0779022ff9c0b32ef2644272b32bef5b7",
+    "symbol": "DAI",
+    "decimals": 18,
+    "chainId": 2484,
+    "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/2484/dai.png"
+  },
+  {
+    "name": "ETH Token on U2U",
+    "address": "0x4a656f094b3140f067196c8986d22619d37df58d",
+    "symbol": "ETH",
+    "decimals": 18,
+    "chainId": 2484,
+    "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/2484/eth.png"
+  },
+  {
+    "name": "SushiToken on U2U",
+    "address": "0xd0c8ec558e16361064f3d1240d0e5472943ea340",
+    "symbol": "SUSHI",
+    "decimals": 18,
+    "chainId": 2484,
+    "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/2484/sushi.png"
+  },
+  {
+    "address": "0x1b75d1Db07059b5A05a981F62E57bF7445948E5C",
+    "chainId": 2484,
+    "decimals": 18,
+    "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/2484/0x1b75d1db07059b5a05a981f62e57bf7445948e5c.png",
+    "name": "TRX",
+    "symbol": "TRX"
+  },
+  {
+    "name": "U2W",
+    "address": "0x006db638881cff205e60ee174d2def83f1835628",
+    "symbol": "U2W",
+    "decimals": 18,
+    "chainId": 2484,
+    "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/2484/u2w.png"
+  },
+  {
+    "name": "USDC Token on U2U",
+    "address": "0x9a0359e8432c856e1eefc6f2e242b5dfed41b3ec",
+    "symbol": "USDC",
+    "decimals": 18,
+    "chainId": 2484,
+    "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/2484/usdc.png"
+  },
+  {
+    "name": "USDT Token on U2U",
+    "address": "0xf13d179f157a6202cede6a78a197eacee656440a",
+    "symbol": "USDT",
+    "decimals": 18,
+    "chainId": 2484,
+    "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/2484/usdt.png"
+  },
+  {
+    "name": "Wrapped U2U",
+    "address": "0xae3cdf25fd5c3443dea93cc7af3226395b48c53a",
+    "symbol": "WETH",
+    "decimals": 18,
+    "chainId": 2484,
+    "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/native-currency/u2u.png"
+  },
+  {
+    "name": "XRP Token on U2U",
+    "address": "0xfd38a31834ccb29fa16c98b6c7a22283c3ceaba0",
+    "symbol": "XRP",
+    "decimals": 18,
+    "chainId": 2484,
+    "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/2484/xrp.png"
+  }
+]
