@@ -1,11 +1,11 @@
 const { version } = require("../package.json");
 
-const u2u_nebulas = require("../tokens/u2u_nebulas.json");
+const u2u_nebulas = require("../tokens/u2u-nebulas.json");
 
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
-    name: "SushiSwap Menu",
+    name: "U2UDex Menu",
     timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],
@@ -14,8 +14,8 @@ module.exports = function buildList() {
     },
     tags: {},
     logoURI:
-      "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
-    keywords: ["sushiswap", "default"],
+      "",
+    keywords: ["U2USwap", "default"],
     tokens: [
      ...u2u_nebulas
     ]
