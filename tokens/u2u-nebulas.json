@@ -1,90 +1,42 @@
 [
   {
     "name": "BTC Token on U2U",
-    "address": "0x5289638b40725fb3c33f801d1a339878674ff555",
-    "symbol": "BTC",
+    "address": "0x9a599da01fd5193ca5060d7eae650889b18e5e64",
+    "symbol": "WBTC",
     "decimals": 18,
     "chainId": 2484,
-    "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/2484/btc.png"
-  },
-  {
-    "name": "BUSD Token on U2U",
-    "address": "0xc845fc63a5a69637ebe0d960fbfa33671a1e21e0",
-    "symbol": "BUSD",
-    "decimals": 18,
-    "chainId": 2484,
-    "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/2484/busd.png"
-  },
-  {
-    "name": "DAI Token on U2U",
-    "address": "0x73fe4db0779022ff9c0b32ef2644272b32bef5b7",
-    "symbol": "DAI",
-    "decimals": 18,
-    "chainId": 2484,
-    "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/2484/dai.png"
+    "logoURI": "https://raw.githubusercontent.com/u2u-eco/default-token-list/master/logos/network/2484/0x9a599da01fd5193ca5060d7eae650889b18e5e64.png"
   },
   {
     "name": "ETH Token on U2U",
-    "address": "0x4a656f094b3140f067196c8986d22619d37df58d",
-    "symbol": "ETH",
+    "address": "0x0a3c7baf490d9f5d77412051cbdf0a11ae7f6950",
+    "symbol": "WETH",
     "decimals": 18,
     "chainId": 2484,
-    "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/2484/eth.png"
+    "logoURI": "https://raw.githubusercontent.com/u2u-eco/default-token-list/master/logos/network/2484/0x0a3c7baf490d9f5d77412051cbdf0a11ae7f6950.png"
   },
   {
-    "name": "SushiToken on U2U",
-    "address": "0xd0c8ec558e16361064f3d1240d0e5472943ea340",
-    "symbol": "SUSHI",
-    "decimals": 18,
-    "chainId": 2484,
-    "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/2484/sushi.png"
-  },
-  {
-    "address": "0x1b75d1db07059b5a05a981f62e57bf7445948e5c",
+    "address": "0x7915b1b149c6f12b6de001bdf4da36a1276e376a",
     "chainId": 2484,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/frankie060392/default-token-list/master/logos/network/2484/0x1b75d1db07059b5a05a981f62e57bf7445948e5c.png",
-    "name": "TRX",
+    "logoURI": "https://raw.githubusercontent.com/u2u-eco/default-token-list/master/logos/network/2484/0x7915b1b149c6f12b6de001bdf4da36a1276e376a.png",
+    "name": "WTRX",
     "symbol": "TRX"
   },
   {
-    "name": "U2W",
-    "address": "0x006db638881cff205e60ee174d2def83f1835628",
-    "symbol": "U2W",
-    "decimals": 18,
-    "chainId": 2484,
-    "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/2484/u2w.png"
-  },
-  {
-    "name": "USDC Token on U2U",
-    "address": "0x9a0359e8432c856e1eefc6f2e242b5dfed41b3ec",
-    "symbol": "USDC",
-    "decimals": 18,
-    "chainId": 2484,
-    "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/2484/usdc.png"
-  },
-  {
     "name": "USDT Token on U2U",
-    "address": "0xf13d179f157a6202cede6a78a197eacee656440a",
+    "address": "0x5b14303c782635acfdcfc9ceab251b369ece68c9",
     "symbol": "USDT",
     "decimals": 18,
     "chainId": 2484,
-    "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/2484/usdt.png"
+    "logoURI": "https://raw.githubusercontent.com/u2u-eco/default-token-list/master/logos/network/2484/0x5b14303c782635acfdcfc9ceab251b369ece68c9.png"
   },
   {
     "name": "Wrapped U2U",
-    "address": "0x4b9f8077856d81c5e97948dbec8960024d4908c1",
+    "address": "0x33dbb072e53cf0dd0fd55b19ffdb4e794364d666",
     "symbol": "WU2U",
     "decimals": 18,
     "chainId": 2484,
-    "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/native-currency/u2u.png"
-  },
-  {
-    "name": "XRP Token on U2U",
-    "address": "0xfd38a31834ccb29fa16c98b6c7a22283c3ceaba0",
-    "symbol": "XRP",
-    "decimals": 18,
-    "chainId": 2484,
-    "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/2484/xrp.png"
+    "logoURI": "https://raw.githubusercontent.com/u2u-eco/default-token-list/master/logos/network/2484/0x33dbb072e53cf0dd0fd55b19ffdb4e794364d666.png"
   }
 ]
