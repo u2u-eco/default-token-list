@@ -51,7 +51,7 @@
   {
     "name": "Wrapped XRP",
     "address": "0xcedb8ee7c0e21bdd78f46e334a33ed17189131d5",
-    "symbol": "WU2U",
+    "symbol": "WXRP",
     "decimals": 18,
     "chainId": 2484,
     "logoURI": "https://raw.githubusercontent.com/u2u-eco/default-token-list/master/logos/network/2484/0xcedb8ee7c0e21bdd78f46e334a33ed17189131d5.png"
